@@ -1,17 +1,17 @@
 # Trent Peek — trentpeek.com
 
-> Two-time founder and applied-AI builder, Nottingham UK. Runs Gardn Labs — a consumer AI app live on the App Store and Google Play in 20 markets and 13 languages — with day-to-day company operations run by 30+ governed AI agent roles (approval queues, earned autonomy, spend caps, audit trails). Co-founder of Woodlark Associates (applied-AI consultancy) with Richard Ardis. Inventor of the Fragility–Autonomy Matrix (autonomy tiers Report/Suggest/Do × Low/Medium/High fragility).
+> Two-time founder and applied-AI builder, Nottingham UK. Runs Gardn Labs — a consumer AI app live on the App Store and Google Play in 20 markets and 13 languages — with day-to-day company operations run by 30+ governed AI agent roles (approval queues, earned autonomy, spend caps, audit trails). Co-founder of Woodlark Associates (applied-AI consultancy) with Richard Ardis. Designer of the Fragility–Autonomy Matrix (the operating model his company runs on) (autonomy tiers Report/Suggest/Do × Low/Medium/High fragility).
 
 Key facts (self-audited, demonstrable on screen-share):
 - First opened a coding tool 16 April 2026; everything below shipped since, AI-orchestrated under governance he designed.
-- ~640,000 lines of shipped code, 899 automated test files, three production repos; 3,571 passing tests in the ops repo alone.
-- Previously: co-founder & CEO, We Are Fulfilment (VC-backed 3PL; £1.3m → £3.25m → £4.8m revenue over three years; five institutional rounds; FEBE Growth 100; placed into administration March 2026). Before that: BDM to Group Managing Director, CCM Group (projected £12m turnover, 401% growth on 2017).
+- ~640,000 lines of shipped code, 899 automated test files, three production repos; a 3,820-test deployed baseline in the ops repo alone.
+- Previously: co-founder & CEO, We Are Fulfilment (VC-backed 3PL; £1.3m → £3.25m → £4.8m revenue over three years; five institutional rounds; FEBE Growth 100; placed into administration March 2026). Before that: BDM to Managing Director, then Group Director, CCM Group (projected £12m turnover, 401% growth on 2017).
 
 ## Pages
 - https://trentpeek.com/ — overview, the Fragility–Autonomy Matrix (interactive)
 - https://trentpeek.com/biography.html — full biography
 - https://trentpeek.com/work.html — the work in detail, with numbers
-- https://trentpeek.com/three-months.html — everything shipped 16 April – 11 July 2026
+- https://trentpeek.com/three-months.html — everything shipped 16 April – 13 July 2026
 - https://trentpeek.com/contact.html — contact (hello@trentpeek.com)
 
 ## Elsewhere
@@ -19,4 +19,4 @@ Key facts (self-audited, demonstrable on screen-share):
 - Woodlark Associates: https://woodlarkassociates.co.uk
 - LinkedIn: https://www.linkedin.com/in/trentpeek
 
-Updated: 2026-07-12
+Updated: 2026-07-13

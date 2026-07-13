@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Three months — Trent Peek</title>
-<meta name="description" content="16 April to 11 July 2026: what shipped between first opening a coding tool and today. The AI-era version of a coding CV — counted, not projected.">
+<meta name="description" content="16 April to 13 July 2026: what shipped between first opening a coding tool and today. The AI-era version of a coding CV — counted, not projected.">
 <link rel="canonical" href="https://trentpeek.com/three-months.html">
 <meta property="og:title" content="Three months — Trent Peek">
-<meta property="og:description" content="16 April to 11 July 2026: from first opening a coding tool to a governed AI agent workforce running a real company. Counted, not projected.">
+<meta property="og:description" content="16 April to 13 July 2026: from first opening a coding tool to a governed AI agent workforce running a real company. Counted, not projected.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://trentpeek.com/three-months.html">
 <meta property="og:image" content="https://trentpeek.com/assets/trent-peek-headshot.jpg">
@@ -45,7 +45,7 @@
   <main id="main">
 
     <div class="hero">
-      <p class="eyebrow">16 April – 11 July 2026</p>
+      <p class="eyebrow">16 April – 13 July 2026</p>
       <h1 class="page">What three months <span class="g">looks like.</span></h1>
       <p class="sub">I first opened a coding tool on 16 April 2026 — the date is verifiable. Everything below shipped between then and today, AI-orchestrated under governance I designed. This is what a coding CV looks like in the AI era: not languages memorised, but systems shipped, tested and governed. Counted, not projected.</p>
       <p class="sub"><strong>Start with the catch, not the counts.</strong> Ninety days in, my own 47-agent adversarial audit found an identity-spoofing flaw before launch — row-level security checked ownership but not identity, so any authenticated user could publish under another user&rsquo;s display name. The same pass caught a payment-webhook bug that would have silently granted full premium. Both fixed before a single user ever saw them. Everything below is corroboration; that is the point.</p>
@@ -58,7 +58,7 @@
         <p><span class="dash" aria-hidden="true">—</span><span><strong>An agent organisation living in Slack as named colleagues.</strong> The fleet began as portal jobs; it evolved into five named executives — four chiefs and a chief of staff, each a separate Slack app you can message directly — over roughly 25 further named roles in the org chart and run history, with a #boardroom channel that convenes a chaired multi-agent debate. Before the chair&rsquo;s summary posts, a critic agent checks every claim in it against the actual codebase and retires the ones that can&rsquo;t cite a file. Deliberate design, not decoration: adoption dies on distrust before it dies on capability. People hand real work to colleagues who feel in control, on their side and worth arguing with — not to silent robots off in the distance. Drop &ldquo;I&rsquo;ve had a thought — what do you think?&rdquo; into the channel and the organisation debates you back.</span></p>
         <p><span class="dash" aria-hidden="true">—</span><span><strong>External sends are earned, lane by lane.</strong> Newsletters, support replies, review responses: each unlocks only behind a clean-approval streak plus a fail-closed brand-and-policy judge that blocks overclaims against the actual state of the product.</span></p>
         <p><span class="dash" aria-hidden="true">—</span><span><strong>A spend governor wired to the live financial model.</strong> Next month's marketing budget is derived from loss headroom and projected burn, with escalating circuit-breakers — including a hard stop to zero and an anti-doom-loop detector.</span></p>
-        <p><span class="dash" aria-hidden="true">—</span><span><strong>The scale of it:</strong> 3,571 passing tests across 75 suites in the operations repo alone; 1,568 commits since its first commit on 26 May; roughly 40 scheduled agent jobs running around the clock.</span></p>
+        <p><span class="dash" aria-hidden="true">—</span><span><strong>The scale of it:</strong> a 3,820-test deployed production baseline in the operations repo alone; 1,568 commits since its first commit on 26 May; roughly 40 scheduled agent jobs running around the clock.</span></p>
       </div>
     </section>
 
@@ -77,7 +77,7 @@
     <section>
       <p class="eyebrow">03 · Verification &amp; safety</p>
       <div class="facts" style="max-width:66ch">
-        <p><span class="dash" aria-hidden="true">—</span><span><strong>The 47-agent adversarial security audit</strong> — the catch that opens this page — worked by method, not luck: ten finder agents per attack surface, then independent refuters attacking every finding before it was accepted. Zero critical findings remain.</span></p>
+        <p><span class="dash" aria-hidden="true">—</span><span><strong>The 47-agent adversarial security audit</strong> — the catch that opens this page — worked by method, not luck: ten finder agents per attack surface, then independent refuters attacking every finding before it was accepted. No Critical findings; one High (caught and fixed) and four Mediums, all tracked — and the two remaining P0s are open items on the board, not secrets.</span></p>
         <p><span class="dash" aria-hidden="true">—</span><span><strong>A 29-agent scale audit to 100,000 users</strong> grounded in live production queries — it proved one supposed mitigation was a dead no-op and caught a race condition that paid an AI provider before checking the spend cap.</span></p>
         <p><span class="dash" aria-hidden="true">—</span><span><strong>Cross-vendor judgement, engineered in.</strong> Autonomous pull requests flow through an adjudication gate built for a rival vendor's model — it reads the raw diff against a rubric as a branch-protection check, designed to fail closed on any outage. The overnight build system separately pairs engines so the auditor of a build is never its author. (The rival-vendor gate is currently parked on a key rotation — noted, because every claim here should survive checking.)</span></p>
         <p><span class="dash" aria-hidden="true">—</span><span><strong>Keyless CI, federated into Anthropic itself.</strong> The build orchestrator holds no static API key at all: GitHub Actions mints an OIDC token and exchanges it at Anthropic's own token endpoint for a one-hour, workspace-scoped service-account credential. Federation rules restrict it to a single repo's main branch, token replay is blocked, and a start-up guard aborts the run if a stray static key would silently shadow the federation.</span></p>
