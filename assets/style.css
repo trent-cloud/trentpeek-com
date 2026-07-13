@@ -61,7 +61,7 @@ img{max-width:100%}
 .rail nav a{text-decoration:none;color:var(--ink)}
 .rail nav a:hover{color:var(--green)}
 .rail nav a[aria-current="page"]{color:var(--green);font-weight:600}
-.rail-portrait{width:120px;height:150px;object-fit:cover;display:block;flex-shrink:0}
+.rail-portrait{width:120px;height:150px;object-fit:cover;display:block;flex-shrink:0;border-radius:10px;box-shadow:0 4px 14px rgba(17,17,17,.12)}
 .rail-foot{margin-top:auto;display:flex;flex-direction:column;gap:8px;font-size:13px;color:var(--muted)}
 .rail-foot a{color:var(--green);text-decoration:none}
 .rail-cross{border-top:1px solid var(--line);padding-top:14px;margin-top:8px;font-size:13px;color:var(--muted);line-height:1.65}
@@ -119,7 +119,7 @@ section{border-top:1px solid var(--line);padding-top:44px}
 /* ————— biography ————— */
 .bio-cols{display:flex;flex-wrap:wrap;gap:clamp(28px,4vw,56px);align-items:flex-start}
 .bio-text{flex:1 1 380px;min-width:0}
-.bio-photo{flex:0 1 280px;width:280px;height:340px;object-fit:cover;display:block;filter:grayscale(1)}
+.bio-photo{flex:0 1 280px;width:280px;height:340px;object-fit:cover;display:block;filter:grayscale(1);border-radius:12px;box-shadow:0 8px 24px rgba(17,17,17,.14)}
 .record{display:flex;flex-direction:column;max-width:760px}
 .record-row{display:grid;grid-template-columns:150px 1fr;gap:24px;padding:16px 0;border-bottom:1px solid var(--line);align-items:baseline}
 .record-k{margin:0;font-size:13px;color:var(--faint)}
