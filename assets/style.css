@@ -120,6 +120,13 @@ section{border-top:1px solid var(--line);padding-top:44px}
 .bio-cols{display:flex;flex-wrap:wrap;gap:clamp(28px,4vw,56px);align-items:flex-start}
 .bio-text{flex:1 1 380px;min-width:0}
 .bio-photo{flex:0 1 280px;width:280px;height:340px;object-fit:cover;display:block;filter:grayscale(1);border-radius:12px;box-shadow:0 8px 24px rgba(17,17,17,.14)}
+/* biography with photo floated so text wraps beside then flows full-width beneath it (scoped: does not affect richardardis) */
+.bio-cols.bio-float{display:block}
+.bio-cols.bio-float .bio-photo{float:right;width:300px;height:370px;margin:4px 0 20px 44px}
+.bio-cols.bio-float .bio-text{display:block;max-width:none}
+.bio-cols.bio-float .bio-text>p{margin:0 0 18px}
+.bio-cols.bio-float .bio-text>p:last-child{margin-bottom:0}
+@media (max-width:760px){.bio-cols.bio-float .bio-photo{float:none;width:100%;height:auto;margin:0 0 22px}}
 .record{display:flex;flex-direction:column;max-width:760px}
 .record-row{display:grid;grid-template-columns:150px 1fr;gap:24px;padding:16px 0;border-bottom:1px solid var(--line);align-items:baseline}
 .record-k{margin:0;font-size:13px;color:var(--faint)}
