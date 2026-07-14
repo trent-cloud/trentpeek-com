@@ -4,8 +4,8 @@
 
 Key facts (self-audited, demonstrable on screen-share):
 - First opened a coding tool 16 April 2026; everything below shipped since, AI-orchestrated under governance he designed.
-- ~640,000 lines of shipped code, 899 automated test files, three production repos; a 3,820-test deployed baseline in the ops repo alone.
-- Previously: co-founder & CEO, We Are Fulfilment (VC-backed 3PL; £1.3m → £3.25m → £4.8m revenue over three years; five institutional rounds; FEBE Growth 100; placed into administration March 2026). Before that: BDM to Managing Director, then Group Director, CCM Group (projected £12m turnover, 401% growth on 2017).
+- Built end-to-end since: a consumer AI app live on both app stores in 20 markets and 13 languages, and a governed AI agent workforce running the company's support, moderation, content, finance and go-to-market — with keyless CI, cross-vendor review, and adversarial security and scale audits across its production repos.
+- Previously: co-founder & CEO, We Are Fulfilment (VC-backed 3PL; £1.3m → £3.25m → £4.8m revenue over three years; five institutional rounds; FEBE Growth 100). Before that: BDM to Managing Director, then Group Director, CCM Group (projected £12m turnover, 401% growth on 2017).
 
 ## Pages
 - https://trentpeek.com/ — overview, the Fragility–Autonomy Matrix (interactive)

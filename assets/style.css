@@ -218,5 +218,5 @@ footer.site a.fwd{color:var(--green)}
   .work-row .work-desc{grid-area:d}
   .detail-row{grid-template-columns:1fr;gap:14px}
   .record-row{grid-template-columns:1fr;gap:4px;padding:14px 0}
-  .bio-photo{flex:1 1 240px;height:300px;width:100%}
+  .bio-photo{flex:1 1 240px;height:300px;width:100%;order:-1;margin-bottom:8px}
 }
