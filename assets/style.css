@@ -186,6 +186,7 @@ section{border-top:1px solid var(--line);padding-top:44px}
 .queue-label{margin:0 0 6px;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
 .queue-text{margin:0 0 20px;font-size:16px;line-height:1.65}
 .queue-actions{display:flex;gap:10px}
+.queue-actions[hidden]{display:none}
 .queue-status{margin:0;font-size:14.5px;line-height:1.65;color:var(--green)}
 .queue-status:empty{display:none}
 .queue-note{margin:14px 0 0;font-size:13px;color:var(--faint)}

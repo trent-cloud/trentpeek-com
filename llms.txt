@@ -1,14 +1,15 @@
 # Trent Peek — trentpeek.com
 
-> Two-time founder and applied-AI builder, Nottingham UK. Runs Gardn Labs — a consumer AI app live on the App Store and Google Play in 20 markets and 13 languages — with day-to-day company operations run by 30+ governed AI agent roles (approval queues, earned autonomy, spend caps, audit trails). Co-founder of Woodlark Associates (applied-AI consultancy) with Richard Ardis. Designer of the Fragility–Autonomy Matrix (the operating model his company runs on) (autonomy tiers Report/Suggest/Do × Low/Medium/High fragility).
+> Commercial leader and AI-native founder, Nottingham UK. Twelve years of sales and commercial leadership — enterprise sales, go-to-market, P&L to a projected £12m — most recently co-founder & CEO (and only salesperson) of a VC-backed 3PL grown £1.3m → £3.25m → £4.8m over three years with five institutional rounds. Now runs Gardn Labs — a consumer AI app live on the App Store and Google Play in 20 markets and 13 languages — with day-to-day company operations run by 30+ governed AI agent roles (approval queues, earned autonomy, spend caps, audit trails). Co-founder of Woodlark Associates (applied-AI consultancy) with Richard Ardis. Designer of the Fragility–Autonomy Matrix (autonomy tiers Report/Suggest/Do × Low/Medium/High fragility) — the operating model his company runs on. Open to senior sales, GTM and commercial roles at AI companies, and to fractional or interim revenue leadership (Fractional CRO shape) through Woodlark.
 
 Key facts (self-audited, demonstrable on screen-share):
+- Selling record: closed his company's three biggest-ever accounts in a single month (November 2023), each worth around £1m a year, when the business was less than two years in — enterprise trust sold through the buyer's credit, track-record and reputation gates. Earlier: topped a nationwide new-business competition across 400+ branches (Edmundson Electrical); won CCM Group's first two £1m-a-year accounts on the way from business development to Group Director.
 - First opened a coding tool 16 April 2026; everything below shipped since, AI-orchestrated under governance he designed.
 - Built end-to-end since: a consumer AI app live on both app stores in 20 markets and 13 languages, and a governed AI agent workforce running the company's support, moderation, content, finance and go-to-market — with keyless CI, cross-vendor review, and adversarial security and scale audits across its production repos.
 - Previously: co-founder & CEO, We Are Fulfilment (VC-backed 3PL; £1.3m → £3.25m → £4.8m revenue over three years; five institutional rounds; FEBE Growth 100). Before that: BDM to Managing Director, then Group Director, CCM Group (projected £12m turnover, 401% growth on 2017).
 
 ## Pages
-- https://trentpeek.com/ — overview, the Fragility–Autonomy Matrix (interactive)
+- https://trentpeek.com/ — overview: the selling record, the Fragility–Autonomy Matrix (interactive)
 - https://trentpeek.com/biography.html — full biography
 - https://trentpeek.com/work.html — the work in detail, with numbers
 - https://trentpeek.com/three-months.html — everything shipped 16 April – 13 July 2026
@@ -19,4 +20,4 @@ Key facts (self-audited, demonstrable on screen-share):
 - Woodlark Associates: https://woodlarkassociates.co.uk
 - LinkedIn: https://www.linkedin.com/in/trentpeek
 
-Updated: 2026-07-13
+Updated: 2026-07-16
