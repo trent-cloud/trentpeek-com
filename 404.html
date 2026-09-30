@@ -3,16 +3,33 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Not found — Trent Peek</title>
+<!--
+  trentpeek.com is retired (30 September 2026). Every address on this domain sends the
+  visitor to woodlarkassociates.co.uk, and none of the former content is served any more.
+
+  GitHub Pages cannot issue an HTTP 301, so the redirect is done three ways in the page,
+  in order of how fast each fires: location.replace() in the head (instant, no history
+  entry), a meta refresh (the no-JavaScript fallback, read by search engines as a
+  permanent redirect), and a plain link in the body. rel=canonical names the destination
+  so nothing here is indexed in its own right. Every retired page keeps a file at its old
+  address so an existing link gets a 200 and a real redirect; 404.html catches the rest.
+-->
+<title>Redirecting to Woodlark Associates</title>
 <meta name="robots" content="noindex">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='8' fill='%231E4D3B'/%3E%3Ctext x='32' y='43' font-family='system-ui,sans-serif' font-size='26' font-weight='700' fill='white' text-anchor='middle'%3ETP%3C/text%3E%3C/svg%3E">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="canonical" href="https://woodlarkassociates.co.uk/">
+<meta http-equiv="refresh" content="0; url=https://woodlarkassociates.co.uk/">
+<script>window.location.replace("https://woodlarkassociates.co.uk/");</script>
+<style>
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+    background:#faf8f3;color:#1e4d3b;
+    font:16px/1.6 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  main{padding:24px;text-align:center}
+  a{color:#1e4d3b}
+</style>
 </head>
 <body>
-<main style="max-width:640px;margin:0 auto;padding:96px 24px">
-  <p class="eyebrow">404</p>
-  <h1 class="page">That page isn&rsquo;t here.</h1>
-  <p class="sub" style="max-width:none">Even a governed system returns a clean error now and then. <a class="glink" href="/">Back to the start &rarr;</a></p>
+<main>
+  <p>Redirecting to <a href="https://woodlarkassociates.co.uk/">woodlarkassociates.co.uk</a>.</p>
 </main>
 </body>
 </html>
